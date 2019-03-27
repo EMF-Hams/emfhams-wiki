@@ -1,0 +1,31 @@
+{{MainPageIntro}}<!-- Template:MainPageIntro -->
+<div style="padding-bottom: .3em; margin: 0 .5em .5em">{{Main Page banner}}</div>
+
+{| cellspacing="3" 
+|- valign="top" 
+|width="50%" class="MainPageBG" style="border: 4px solid #B0C8E3; color: #000; <!-- background-color: #D2E2F3 --> "|
+<div style="padding: .4em .9em .9em" id="MainPageBox1">
+{{Template:Box1}}<!-- Template:Box1 -->
+</div>
+|width="50%" class="MainPageBG" style="border: 4px solid #B0C8E3; color: #000; <!-- background-color: #D2E2F3 --> " |
+<div style="clear: right; text-align: left; float: Left; padding: .4em .4em .9em" id="MainPageBox2">
+{{Template:Box2}}<!-- Template:Box2--></div>
+|}
+__NOTOC__ __NOEDITSECTION__
+<div id="mpbanner" style="text-align:center;"><div style="width:88%; background-color:#D2E2F3;padding: .2em 0; border: 2px dotted #B0C8E3; color: #000; margin: 0 auto .5em">
+{{Template:Helpbox}}<!-- Template:Helpbox --><br>
+</div>
+
+
+<!-- Hidden Text
+<strong>MediaWiki has been successfully installed.</strong>
+
+Consult the [//meta.wikimedia.org/wiki/Help:Contents User's Guide] for information on using the wiki software.
+
+== Getting started ==
+* [//www.mediawiki.org/wiki/Special:MyLanguage/Manual:Configuration_settings Configuration settings list]
+* [//www.mediawiki.org/wiki/Special:MyLanguage/Manual:FAQ MediaWiki FAQ]
+* [https://lists.wikimedia.org/mailman/listinfo/mediawiki-announce MediaWiki release mailing list]
+* [//www.mediawiki.org/wiki/Special:MyLanguage/Localisation#Translation_resources Localise MediaWiki for your language]
+-->
+

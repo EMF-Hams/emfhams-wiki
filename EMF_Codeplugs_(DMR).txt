@@ -1,0 +1,438 @@
+=== Introduction ===
+
+A Codeplug is the programming file that is uploaded to a radio to configure various channels, contacts, receive lists, scan lists and zones.
+
+===Format===
+
+Whilst the actual Code Plug format varies between manufacturers and models, they usually have the same basic structure. 
+
+=====Contacts=====
+
+Contacts are ''who'' you want to call. They could be a private call which will call another radio directly, or a talk group which will broadcast audio to anyone else monitoring that talk group.
+
+Generally a Contact has only two important settings, the ID, i.e the number assigned to the Radio/User or the Talk Group, and they Type - whether its a Private or Group Call
+
+One contact can usually be assigned to any channels and scan lists.
+
+=====Receive Group=====
+
+A receive group is a group of contacts that you wish to receive audio from, so one "channel" can listen to several talk groups simultaneously.
+
+=====Channels=====
+
+Channels are where you configure the frequencies, colour codes, time slots etc  for the individual repeater/gateway or simplex contact.
+
+You then assign a contact to the channel, so when you key up the radio will transmit to that contact, and likewise the radio will output any traffic received from that contact
+
+You can also assign a receive group, so your radio will output any traffic received from a group of contacts when received on the same frequency / colour code / Time Slot combination as the channel. 
+
+You can also assign a scan list, this is a list of channels that your radio will scan through, changing frequency when required. These can usually be a mix of Analog and DMR channels.
+
+=====Scan Lists=====
+
+Scan lists are made up of groups of channels. The channels do not need to have anything in common, they can be a mix of frequencies, modes, colour codes etc.
+
+Scan lists are then assigned to a channel so a user can scan through multiple contacts if desired. 
+
+Note: Scan Lists are slower than Receive Groups as the radio is changing Frequency etc. If you can use a Receive Group instead - do it.
+
+=====Zones=====
+
+Zones are arbitrary groups of channels. Most amateurs would create a Zone per repeater, but it's really up to the user how these configured. Once you've selected a Zone on the radio, you can usually switch through the channels in that zone using the selector knob on the top of the radio
+
+===Suggested Minimal Layout===
+
+====Contacts====
+
+{| class="wikitable"
+! Name
+! TG
+! Type
+|-
+| EMF Hub
+| 27273
+| Group
+|-
+| Echo Test
+| 9990
+| Private
+|-
+| TG9 Local
+| 9
+| Group
+|-
+| APRS / GPS
+| 310999
+| Private
+|-
+| SMS Services
+| 262993
+| Private
+|-
+| Dapnet
+| 262994
+| Private
+|}
+
+====Channels====
+
+{| class="wikitable"
+! Name
+! Mode
+! Rx Frequency
+! Tx Frequency
+! Offset
+! CC / CTCSS
+! Bandwidth
+! TS
+! Contact
+! Scan List
+|-
+| EMF Camp
+| D
+| 438.4000
+| 438.4000
+| 0
+| 4
+| -
+| 2*
+| EMF Hub
+| EMF Camp
+|-
+| MB7AEF [A]
+| A
+| 430.8000
+| 430.8000
+| 0
+| 118.8
+| Narrow
+| 
+| 
+| -
+|-
+| MB6IEF [D]
+| D
+| 438.4000
+| 438.4000
+| 0
+| 4
+| -
+| -
+| -
+| -
+|-
+| DH1 438.5875
+| D
+| 438.5875
+| 438.5875
+| 0
+| 1
+| -
+| 2*
+| TG9 Local
+| -
+|-
+| DH2 438.6000
+| D
+| 438.6000
+| 438.6000
+| 0
+| 1
+| -
+| 2*
+| TG9 Local
+| -
+|-
+| DH3 438.6125 (C)
+| D
+| 438.6125
+| 438.6125
+| 0
+| 1
+| -
+| 2*
+| TG9 Local
+| -
+|-
+| DH4 438.6250
+| D
+| 438.6250
+| 438.6250
+| 0
+| 1
+| -
+| 2*
+| TG9 Local
+| -
+|-
+| DH5 438.6375
+| D
+| 438.6375
+| 438.6375
+| 0
+| 1
+| -
+| 2*
+| TG9 Local
+| -
+|-
+| DH6 438.6500
+| D
+| 438.6500
+| 438.6500
+| 0
+| 1
+| -
+| 2*
+| TG9 Local
+| -
+|-
+| U272 433.400
+| A
+| 433.400
+| 433.400
+| 0
+| -
+| Wide
+| -
+| -
+| -
+|-
+| U274 433.425
+| A
+| 433.425
+| 433.425
+| 0
+| -
+| Wide
+| -
+| -
+| -
+|-
+| U276 433.450
+| A
+| 433.450
+| 433.450
+| 0
+| -
+| Wide
+| -
+| -
+| -
+|-
+| U278 433.475
+| A
+| 433.475
+| 433.475
+| 0
+| -
+| Wide
+| -
+| -
+| -
+|-
+| U280 433.500 (C)
+| A
+| 433.500
+| 433.500
+| 0
+| -
+| Wide
+| -
+| -
+| -
+|-
+| U282 433.525
+| A
+| 433.525
+| 433.525
+| 0
+| -
+| Wide
+| -
+| -
+| -
+|-
+| U284 433.550
+| A
+| 433.550
+| 433.550
+| 0
+| -
+| Wide
+| -
+| -
+| -
+|-
+| U286 433.575
+| A
+| 433.575
+| 433.575
+| 0
+| -
+| Wide
+| -
+| -
+| -
+|-
+| Echo Test [D]
+| D
+| 438.4000
+| 438.4000
+| 0
+| 4
+| -
+| 2*
+| Echo Test
+| -
+|}
+
+
+<nowiki>*</nowiki> Standard DMO (Simplex) does not use a Timeslot, but depending on your radio you may need to enter the slot anyway. Lets standardise on TS2
+
+====Zones====
+
+{| class="wikitable"
+! Name
+! 1
+! 2
+! 3
+! 4
+! 5
+! 6
+! 7
+! 8
+! 9
+! 10
+! 11
+! 12
+! 13
+! 14
+! 15
+! 16
+|-
+| EMF Camp
+| EMF Camp
+| MB7IEF [A]
+| MB6AEF [D]
+| DH1 438.5875
+| DH2 438.6000
+| DH3 438.6125 (C)
+| DH4 438.6250
+| DH5 438.6375
+| DH6 438.6500
+| U274 433.425
+| U276 433.450
+| U278 433.475
+| U280 433.500 (C)
+| U282 433.525
+| U284 433.550
+| Echo Test [D]
+|-
+| FM Simplex UHF
+| U272 433.400
+| U274 433.425
+| U276 433.450
+| U278 433.475
+| U280 433.500 (C)
+| U282 433.525
+| U284 433.550
+| U286 433.575
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+|-
+| DMR Simplex UHF
+| DH1 438.5875
+| DH2 438.6000
+| DH3 438.6125 (C)
+| DH4 438.6250
+| DH5 438.6375
+| DH6 438.6500
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+| 
+|}
+
+=== GPS / APRS / DAPNET ===
+
+For the GPS and APRS functions to function correctly on the EMF Hub, you ''must'' create a Brandmeister SelfCare Account if you haven't already. You can register at [https://brandmeister.network/?page=register brandmeister.network]
+
+Once registered, login and go to Services > SelfCare and then set the brand of radio you're using and configure APRS. It's probably best if we standardise on the APRS SSID '3'.  I suggest you ''do not''' change the security settings unless you know what you are doing.
+
+[http://cdn.marrold.co.uk/images/BrandmeisterSelfCare.png Example SelfCare configuration]
+
+==== APRS Messaging ====
+
+It should be possible to send text messages between the DMR Gateway and APRS, and vice versa.
+
+===== Sending from DMR to  APRS =====
+
+To send a message to APRS you should compose the message on your DMR radio using the following format (You ''must'' append the recipients SSID to their call sign):
+
+ <recipient call-sign in upper case + SSID> <message text>
+
+Example:
+
+ 2E0SIP-3 We're at the bar
+
+Once you've composed your message you should send it to the Private ID 310999
+
+===== Sending from APRS to DMR =====
+
+Note: Due to network constraints, receiving messages from APRS will only work for those with an Irish or UK Call Sign
+
+You should compose your message using the following format (You ''must'' append the recipients SSID to their call sign):
+
+  <sender call-sign in upper case + SSID> <message text>
+
+Example:
+
+ 2E0SIP-3 It's your round
+
+====GPS Position Reports====
+
+If you have a compatible DMR Radio with GPS, you can send periodic position reports which will be parsed and forward to APRS-IS, where they will then show up on services such as [http://aprs.fi aprs.fi]
+
+Configuration varies between radios, but you should configure your radio to send the GPS reports to Private ID 310999.
+
+=====Radio Configuration=====
+
+* TYT MD380 / MD390 - [http://omarcclub.org/forum/discussion/243/using-gps-on-tyt-md-380 Instructions]
+
+====DAPNET====
+
+It's possible to send messages from DMR via Brandmeister to DAPNET, an Amateur Paging network thats popular in Germany but gaining users in the UK.
+
+You should compose your message using the following format:
+
+  <sender call-sign in upper caseD> <message text>
+
+Example:
+
+ 2E0SIP It's your round
+
+Once you've composed your message you should send it to the Private ID 262994
+
+===Pre-made Codeplugs===
+
+'''Uploaders:''' If you've made a code plug for a radio you can upload it here. Remember to remove your Radio ID / Boot text.
+
+'''Downloaders:''' If you're downloading these code plugs, remember to add your Radio ID and Boot Text. Use at your own risk.
+
+* '''TYT MD380:''' [http://cdn.marrold.co.uk/files/Codeplugs/EMF/MD380.rdt Download] 
+* '''TYT MD390:''' [http://cdn.marrold.co.uk/files/Codeplugs/EMF/MD390.rdt Download] ''GPS Enabled, disable if you have privacy concerns''
+* '''Motorola SL4000:''' [http://cdn.marrold.co.uk/files/Codeplugs/EMF/SL4000.ctb Download]
+

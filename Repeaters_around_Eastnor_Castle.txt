@@ -1,0 +1,213 @@
+Unfortunately the area around Eastnor Castle is not particularly well served by Amateur Repeaters. Perhaps if we take a walk up the surrounding hills and the wind is blowing in the right direction we will make it into something
+
+===FM===
+
+====UHF====
+
+{| class="wikitable"
+! Call Sign
+! Location
+! Output
+! Input
+! Offset
+! CTCSS
+|-
+| GB3HC
+| Hereford
+| 433.1500
+| 434.7500
+| +1.6
+| 118.8
+|-
+| GB3AC
+| Lydney Glos
+| 430.9750
+| 438.5750
+| +7.6
+| 94.8
+|-
+| GB3GH
+| Gloucester
+| 433.1250
+| 434.7250
+| +1.6
+| 118.8
+|-
+| GB3UK
+| Cheltenham
+| 430.8625
+| 438.4625
+| +7.6
+| 103.5
+|-
+| GB3WU
+| Worcester
+| 430.8250
+| 438.4250
+| +7.6
+| 118.8
+|}
+
+====VHF====
+
+{| class="wikitable"
+! Call Sign
+! Location
+! Output
+! Input
+! Offset
+! CTCSS
+|-
+| GB3ZA
+| Hereford
+| 145.7375
+| 145.1375
+| -0.6
+| 118.8
+|-
+| GB3AA
+| Bristol
+| 145.6625
+| 145.0625
+| -0.6
+| 94.8
+|-
+| GB3CG
+| Gloucester
+| 145.7250
+| 145.1250
+| -0.6
+| 118.8
+|-
+| GB3NW
+| Worcester
+| 145.6250
+| 145.0250
+| -0.6
+| 67.0
+|}
+
+===DMR===
+
+====UHF====
+
+{| class="wikitable"
+! Call Sign
+! Location
+! Output
+! Input
+! Offset
+! CC
+! Network
+|-
+| GB7BJ
+| Malvern
+| 439.7375
+| 430.7375
+| -9
+| 13
+| Brandmeister
+|-
+| GB7CC
+| Cheltenham
+| 430.2750
+| 439.2750
+| +9
+| 2
+| Brandmeister
+|-
+| GB7AA
+| Bristol
+| 439.6750
+| 430.675
+| -9
+| 1
+| South West Cluster
+|-
+| GB7KM
+| Cirencester
+| 439.6625
+| 430.6625
+| -9
+| 3
+| Phoenix
+|}
+
+====VHF====
+
+N/A
+
+===D-Star===
+
+====UHF====
+
+{| class="wikitable"
+! Call Sign
+! Location
+! Output
+! Input
+! Offset
+|-
+| GB7VO
+| Leominster
+| 439.7000
+| 430.7000
+| -9
+|}
+
+====VHF====
+
+N/A
+
+===Fusion===
+
+====UHF====
+
+{| class="wikitable"
+! Call Sign
+! Location
+! Output
+! Input
+! Offset
+! CTCSS
+|-
+| GB3HC
+| Hereford
+| 433.1500
+| 434.7500
+| +1.6
+| 118.8
+|}
+
+====VHF====
+
+{| class="wikitable"
+! Call Sign
+! Location
+! Output
+! Input
+! Offset
+! CTCSS
+|-
+| GB3ZA
+| Hereford
+| 145.7375
+| 145.1375
+| -0.6
+| 118.8
+|-
+| GB3AA
+| Bristol
+| 145.6625
+| 145.0625
+| -0.6
+| 94.8
+|-
+| GB3NW
+| Worcester
+| 145.6250
+| 145.0250
+| -0.6
+| 67.0
+|}
+

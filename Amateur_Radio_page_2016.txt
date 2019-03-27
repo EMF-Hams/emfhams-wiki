@@ -1,0 +1,745 @@
+{{Village
+|Description=Ham radio at its finest.
+|Contact=M0TZO
+|Activities=Demonstrations of Amateur Radio communication and possibly some contesting.
+|Location=51.21250,-0.60941
+|Name=mateur (Ham) Radio enthusiasts
+|Picture=Radiotowerhi.png
+}}
+==Amateur Radio==
+Quoting from Wikipedia [https://en.wikipedia.org/wiki/Amateur_radio Amateur Radio page] ''"Amateur radio (also called "ham" radio) describes the use of radio frequency spectra for purposes of non-commercial exchange of messages, wireless experimentation, self-training, private recreation and emergency communication".''
+
+During EMF 2016 will shall be showcasing Amateur Radio on Bands from 3.5 MHz (80m) to 430MHz (70cm) and maybe higher. We'll also have a local frequency on either 144MHz (2m) &/or 430MHz (70cm) FM.
+
+For reference, the EMF site in Guildford is at Gridsquare: IO91QF. WAB Square: SU94
+
+Unique Hackerspace passport stamp available on site. Please ask for Paul M0TZO for the stamp in your passport.
+
+===Special Event Callsigns===
+Amateur Radio Village will be operating a special event station: '''GB4EMF'''<br />
+Another team will be the special event station: '''GB8EMF'''
+
+===Local Comms===
+145.425 / 433.425 simplex NFM ''(If in use by other Amateurs then please try 145.450 / 433.450)''
+
+==Amateur Radio chat on IRC/Telegram/Facebook==
+We're using [http://en.wikipedia.org/wiki/IRC IRC] and [https://telegram.org/ Telegram] to organise the Amateur Radio Village, & you can find us on [https://kiwiirc.com/client/irc.freenode.net/emfhams <tt>#emfhams</tt>] on Freenode or our [https://telegram.me/joinchat/A3glvAZ5xf_T9RkCfuDeOA Telegram Group]. The IRC channel and Telegram group are linked, so you can use either.
+
+* IRC Network - <tt>chat.freenode.net</tt> on port 6667 (non-SSL) or 6697 (SSL, recommended)<br />
+* Channel - #emfhams<br />
+* Username - Callsign or other username<br />
+* Web Based Link to #emfhams - [http://webchat.freenode.net?channels=emfhams Webbased #emfhams channel]
+* Connect through Tor (Instructions can be found [http://freenode.net/irc_servers.shtml#tor here])
+* [https://telegram.me/emfhams Join our Telegram Group] (iPhone, Android Apps & Web Based)
+
+There is also a Facebook group with pictures, videos and other bits:
+
+* [https://www.facebook.com/groups/316141732057436/ Facebook: EMF Hams]
+
+===Chat Members===
+{| class="wikitable sortable"
+! style="text-align:left;"| Callsign*
+! IRC Name
+! First Name
+! Role
+! Ticket
+! Notes
+|-
+| data-sort-value="M6LPI"| M6LPI
+| M6LPI
+| Neil
+| &nbsp;
+| No
+| &nbsp;
+|-
+| data-sort-value="M0RVM"| MØRVM
+| tgreer
+| Thomas
+| &nbsp;
+| &nbsp;
+| &nbsp;
+|-
+| data-sort-value="M0WPG"| M0WPG
+| paul-M0WPG
+| data-sort-value="Paul"| Paul (another)
+| &nbsp;
+| Yes
+| Bringing Gazebo & SCAM12 mast
+|-
+| 2M0STB
+| irl
+| Iain
+| &nbsp;
+| No
+| &nbsp;
+|-
+| 5Q5R
+| mihtjel
+| Rune
+| &nbsp;
+| &nbsp;
+| &nbsp;
+|-
+| [https://www.qrz.com/lookup/M0NGY MØNGY]
+| Filbert
+| Jon
+| &nbsp;
+| Yes
+| &nbsp;
+|-
+| M0RYS
+| kraptv
+| Ryan
+| &nbsp;
+| &nbsp;
+| &nbsp;
+|-
+| MM3ZRZ
+| hibby/Røde
+| Dave
+| Buckfast Warrior
+| data-sort-value="Yes"| Aye
+| Manages Scottish Consulate, will have 5.4m mast in consulate
+|-
+| data-sort-value="M0TZO"| [http://www.m0tzo.co.uk MØTZO]
+| data-sort-value="M0TZO"| MØTZO
+| Paul
+| Ham Village Lead
+| Yes
+| Bringing APRS kit, 2014 EMF Badge network, Handheld Radios and Cards Against Humanity (big set)
+|-
+| data-sort-value="M0SPN"| M0SPN
+| M0SPN
+| Steve
+| &nbsp;
+| Yes
+| &nbsp;
+|-
+| data-sort-value="DB1SQU"| DB1SQU
+| SQUelcher
+| Kai
+| &nbsp;
+| &nbsp;
+| &nbsp;
+|-
+| data-sort-value="M0NIT"| M0NIT
+| M0NIT
+| Jan
+| &nbsp;
+| &nbsp;
+| &nbsp;
+|-
+| data-sort-value="M0PLL"| M0PLL
+| plett
+| Paul (yet another one!)
+| &nbsp;
+| Yes
+| &nbsp;
+|-
+| data-sort-value="M0DLX"| M0DLX
+| Dominic
+| Dominic
+| &nbsp;
+| Yes
+| Bringing IC-706, 2m/70cms beams, may enter contests
+|-
+| data-sort-value="HB9EGM"| HB9EGM
+| hb9egm
+| Matthias
+| &nbsp;
+| &nbsp;
+| Doing DAB things
+|-
+| data-sort-value="M0NIT"| M0NIT
+| jasiek
+| Jan
+| &nbsp;
+| &nbsp;
+| &nbsp;
+|-
+| data-sort-value="2E0TPS"| 2E0TPS
+| MatStace
+| Mat
+| &nbsp;
+| Yes
+| Bringing couple of DMR handies (MD-380 and MD-390), arrow antenna and vx-8r for ISS APRS, and a pair of ft-817s to attempt to do something amsat based.
+|-
+| data-sort-value="G6VZM"| G6VZM
+| g6vzm
+| JJ
+| Token old bloke with G- call to balance the inclusivity statistics.
+| Yes
+| Could bring FT-1000MP if shack is dry and secure, definitely FT-897D, 10m lightweight guyed mast, 2+70 yagis if required, <s>organising (but not actual transporting) 50m RG213 from LHS and</s> antenna cable believed to be 15-20m of RG-213.
+|-
+| data-sort-value="M6KVA"| M6KVA
+| pe5er
+| Peter
+| Village First Aider
+| Yes
+| Bringing Kenwood TM-241E, Realtek SDRs, selection of DIY 2m antennas
+|-
+| data-sort-value="MM0MRU"| MM0MRU
+| WSPR
+| Calum
+| &nbsp;
+| Yes
+| &nbsp;
+|-
+| data-sort-value="M1PFS"| M1PFS
+| M1PFS
+| Pete
+| &nbsp;
+| Yes
+| SDR stuff and Raspberry Pi
+|-
+| data-sort-value="M1DHL"| M1DHL
+| murb
+| bill
+| &nbsp;
+| Yes
+| &nbsp;
+|-
+| data-sort-value="G0VQH"| G0VQH
+| jennyb
+| Jenny
+| &nbsp;
+| Yes
+| Campervan + Large Tarheel. KX3+Pole+wire+gaffer tape for something creative;
+|-
+| data-sort-value="IV3BSI"| IV3BSI
+| g5pw
+| Aljaž
+| &nbsp;
+| Yes
+| &nbsp;
+|-
+| data-sort-value="PD5KNR"| PD5KNR
+| Knorrie
+| Hans
+| Learning stuff
+| Yes
+| &nbsp;
+|-
+| data-sort-value="ON4PHP"| ON4PHP
+| trouble
+| Philip
+| &nbsp;
+| Yes
+| &nbsp;
+|-
+| data-sort-value="MM0TKE"| MM0TKE
+| tkerby
+| Tim
+| &nbsp;
+| Yes
+| Bringing an APRS iGate and a Yaesu VX-8
+-
+
+|}
+<nowiki />* If you have a Callsign
+
+==Local Repeaters==
+''List being updated''
+{| class="wikitable sortable"
+! style="text-align:left;"| Repeater!!Output!!Recieve!!CTCSS/DMR!!Distance!!Notes
+|-
+| GB3GF ||433.3000||434.9000||88.5Hz||1.9 miles||FM voice
+|-
+| GB7GF ||439.6875||430.6875||3||1.9 miles||DMR
+|-
+| GB3HV ||3408.000||1248.000||&nbsp;||8.2 miles||ATV
+|-
+| GB3FX ||50.8100||51.3100||82.5Hz||8.7 miles||FM voice
+|-
+| GB3FN ||433.3750||434.9750||82.5Hz||8.7 miles||FM voice
+|-
+| GB3FM ||1297.0500||1291.0500||100.0Hz||8.7 miles||FM voice
+|-
+| GB3BN ||433.0000||434.6000||118.8Hz||14.7 miles||FM voice, Echolink ID 1938
+|-
+| GB7EP ||439.4000||430.4000||3||17.7 miles||DMR
+|-
+| GB3SN ||145.7250||145.1250||71.9Hz||19.5 miles||FM voice
+|-
+| GB7ID ||430.9750||438.5750||3||20.8 miles||DMR
+|}
+
+==ISS Passes==
+There are quite a few ISS passes of which at least six are at high angle during hacker-friendly times:
+
+{| class="wikitable sortable"
+! style="text-align:left;"| Date!!Start!!Alt!!Az!!Highest!!Alt!!Az!!End!!Alt!!Az!!Pass type
+|-
+| 05 Aug
+| 19:30:38
+| 10°
+| SW
+| 19:33:50
+| 51°
+| SSE
+| 19:37:01
+| 10°
+| E
+| daylight 
+|-
+| 05 Aug
+| 21:06:56
+| 10°
+| W
+| 21:10:12
+| 81°
+| N
+| 21:13:28
+| 10°
+| E
+| daylight 
+|-
+| 05 Aug
+| 22:43:24
+| 10°
+| W
+| 22:46:39
+| 69°
+| SSW
+| 22:49:54
+| 10°
+| ESE
+| visible 
+|-
+| 06 Aug
+| 00:20:13
+| 10°
+| W
+| 00:22:43
+| 20°
+| SW
+| 00:25:12
+| 10°
+| SSE
+| visible 
+|-
+| 06 Aug
+| 18:37:56
+| 10°
+| SW
+| 18:40:57
+| 35°
+| SSE
+| 18:43:58
+| 10°
+| E
+| daylight 
+|-
+| 06 Aug
+| 20:13:57
+| 10°
+| W 
+| 0:17:13
+| 89°
+| N
+| 20:20:30
+| 10°
+| E
+| daylight 
+|-
+| 06 Aug
+| 21:50:26
+| 10°
+| W
+| 21:53:42
+| 87°
+| SSW
+| 21:56:58
+| 10°
+| ESE
+| visible 
+|-
+| 06 Aug
+| 23:27:00
+| 10°
+| W
+| 23:29:55
+| 30°
+| SSW
+| 23:32:50
+| 10°
+| SSE
+| visible 
+|-
+| 07 Aug
+| 17:45:28
+| 10°
+| SSW
+| 17:48:09
+| 23°
+| SE
+| 17:50:49
+| 10°
+| E
+| daylight 
+|-
+| 07 Aug
+| 19:20:59
+| 10°
+| WSW
+| 19:24:15
+| 76°
+| SSE
+| 19:27:31
+| 10°
+| E
+| daylight 
+|-
+| 07 Aug
+| 20:57:27
+| 10°
+| W
+| 21:00:43
+| 83°
+| N
+| 21:03:59
+| 10°
+| E
+| daylight 
+|-
+| 07 Aug
+| 22:33:55
+| 10°
+| W
+| 22:37:04
+| 45°
+| SSW
+| 22:40:12
+| 10°
+| SE
+| visible 
+|}
+
+==Contests==
+There are a [http://www.rsgbcc.org/cgi-bin/readcal.pl couple of contests] on during EMF which we might want to put together a station for:
+
+Also here nearer the time will be contest over the EMF Camp weekend [http://www.hornucopia.com/contestcal/weeklycont.php Hornucopia.com 8 Day Contest Calendar]
+
+==Tasks/Organisation==
+Some tasks may already be complete - if so please add owner/completion date.  Otherwise feel free to take ownership.
+{| class="wikitable sortable"
+! style="text-align:left;"| Task*
+! Owner
+! Date Complete
+! Notes
+|-
+| Contact RSGB News
+| M0DLX
+| 24/07/16
+| Sent item for special event stations
+|-
+| Contact RADCOM
+| 
+| &nbsp;
+| Press release?  '''Print deadline missed.'''
+|-
+| Contact GB2RS
+| M0DLX
+| 24/07/16
+| Sent item for special event stations
+|-
+| emfcamp
+| M0DLX
+| &nbsp;
+| Press release (Facebook/Twitter)?
+|-
+| Contact RSGB
+| M0SPN
+| 06/07/16
+| Requested promo paterial
+|-
+| Contact Yaesu
+| M0SPN
+| 06/07/16
+| Requested promo items & equipment loans
+|-
+| Contact Icom
+| M0SPN
+| 06/07/16
+| Requested promo items & equipment loans
+|-
+| Contact Kenwood
+| M0SPN
+| 06/07/16
+| Requested promo items & equipment loans
+|-
+| Contact Moonraker
+| M0SPN
+| 06/07/16
+| Requested antenna loans (for satellite)
+|-
+| Furniture
+| 
+| &nbsp;
+| Organise loan/hire of tables & chairs
+|-
+| Equipment
+| 
+| &nbsp;
+| Contact attendees and compile definitive radio/antenna/mast list
+|-
+| Event Write Up
+| 
+| &nbsp;
+| Something to post on Social Media after event
+|-
+| Photos
+| 
+| &nbsp;
+| Maybe have a Shared DropBox or space somewhere
+|-
+|}
+
+==Station Planning==
+Initial plan made from comments/equipment above.  Please keep updated with offers/changes.
+
+Bear in mind that this is an initial framework based on the offers of equipment received and the constraints of the site as best we can determine from Google/OS etc. It's quite likely to change on the day so please don't be surprised if you've offered equipment to do one thing but we suggest it's better for something else.  If you have particular plans please raise it in the IRC channel.
+
+===HF Station===
+{| class="wikitable sortable"
+! style="text-align:left;"| Function*
+! Item
+! Owner
+! Notes
+|-
+| Transceiver
+| Yaesu FT-1000 or FT-897
+| G6VZM
+| (May swap G6VZM's FT-897 with M0PSN's FT-847 if appropriate) (M0PLL also has an FT-450D if that's useful)
+|-
+| PSU
+| n/a
+| n/a
+| integral in both of above
+|-
+| Antenna
+| doublet
+| M0SPN
+| will probably need a balun
+|-
+| Antenna 2
+| Mosley Mini-33-aw
+| M0WPG
+| 5 band (20-10m), 
+|-
+| Mast
+| SCAM-12
+| M0WPG
+| 
+|-
+| Feeder
+| Twin/Ladder Line
+| JJ/plett/M0SPN and others
+| 20m length (can be trimmed) - M0SPN
+|-
+| Other
+| Logging computer? Data interface?
+| 
+| 
+|-
+| Antenna analyser
+| MFJ 259
+| M0NGY
+| 
+|-
+| Antenna tuner
+| LDG Z-11ProII
+| M0DLX
+| (won't be needed with those transceivers but useful to have around)
+|}
+
+===VHF/UHF Station===
+{| class="wikitable sortable"
+! style="text-align:left;"| Function*
+! Item
+! Owner
+! Notes
+|-
+| Transceiver
+| Icom 706 MK1Ig
+| M0DLX
+| HF to 70cm
+|-
+| PSU
+| ?
+| M0DLX
+| To power IC-706
+|-
+| Antenna
+| 2/70 Beams
+| M0DLX
+| 
+|-
+| Mast
+| 10m lightweight telescopic
+| G6VZM
+| 
+|-
+| Feeder
+| PL259 or N-type (M0DLX has adapter for the former)
+| G6VZM can potentially get some
+| How long do we need?
+|-
+| Other
+| Logging computer? Data interface?
+| 
+| 
+|}
+
+===Satellite (and ISS?) Station===
+{| class="wikitable sortable"
+! style="text-align:left;"| Function*
+! Item
+! Owner
+! Notes
+|-
+| Transceiver
+| Yaesu FT-847
+| M0SPN
+| [Or swapped with G6VZM's FT-897]
+|-
+| PSU
+| 20A SMPS
+| M0SPN
+| 
+|-
+| Antenna
+| 2 & 70 ZL Specials on G-5500 Az/El rotator
+| M0SPN 
+| 
+|-
+| Mast
+| 4(?) metre mast on tripod stand
+| M0SPN
+| 
+|-
+| Feeder
+| COAX
+| M0SPN
+| 2x 15m Aircell-5
+|}
+
+===Local Comms===
+For comms around the site, maybe a crossband repeater if handhelds can't reach from one side of the site to the other.
+{| class="wikitable sortable"
+! style="text-align:left;"| Function*
+! Item
+! Owner
+! Notes
+|-
+| Transceiver
+| FT8900
+| M0PLL
+| (or maybe TM-V71, or maybe both)
+|-
+| PSU
+| 20A SMPS
+| M0PLL
+| 
+|-
+| Antenna
+| X-50 co-linear clone
+| M0PLL
+| N-type
+|-
+| Mast
+| 5.4m clansman mast
+| MM0MRU
+|
+|-
+| Feeder
+| 10m RG213
+| M0PLL
+| with N-types on both ends
+|}
+
+===Misc===
+{| class="wikitable sortable"
+! style="text-align:left;"| Item*
+! Owner
+! Notes
+|-
+| Gazebo
+| M0WPG
+| 4.5M * 3M, has sides, tie downs.
+|-
+| Power Distribution
+| M0WPG
+| 25M 16A Hookup Cable, 16A 3 way splitter, 2 * 16A -> 10 UK Mains power strips
+|-
+| Rotator
+| ?
+| ?
+|-
+| Table and stools
+| M0PLL
+| [http://www.decathlon.co.uk/camping-table-with-4-seats-4-6-people-green-id_8303444.html One of these]. 1.2m x 0.6m table with 4 folding stools
+|-
+| 4x chairs
+| M0DLX
+| Two camping chairs, two folding wooden chairs
+|-
+| Camping lantern
+| M0DLX
+| Small, rechargeable
+|}
+
+===Needed===
+{| class="wikitable sortable"
+! style="text-align:left;"| Item*
+! Owner
+! Notes
+|-
+| Assorted coax and connectors
+| 
+| ...and a 50w soldering iron (50w minimum)
+|-
+| More tables and chairs
+| 
+| 
+|-
+| Laptops
+| 
+| 
+|-
+| Display screens
+| 
+| To display contacts, satellites etc (just an idea)
+|-
+| Fixed displays
+| 
+| Some way to display printed material
+|-
+| Lighting
+| 
+| For night!
+|-
+|-
+| Beer fridge
+| M0PLL
+| I will bring an electric coolbox to use as a beer chiller if people bring drinks they want cooling
+|-
+| Coffee machine
+| 
+| Bean-to-cup
+|-
+| Moon-onna-stick
+| 
+| Is anyone reading this? [I want a pony]
+|-
+| Mains cables
+| everyone!
+| You '''always''' need more 4-way bars than you have
+|}
+
+==Useful Links==
+[https://sites.google.com/site/gw6itj/bandplan GW6ITJ UK Band Plans]
+[http://www.arrl.org/graphical-frequency-allocations USA Band Plans]
+
+[[Category:Schedule]] <!-- added by [[User:Ms7821]] so we can potentially put the contests in the schedule -->
+

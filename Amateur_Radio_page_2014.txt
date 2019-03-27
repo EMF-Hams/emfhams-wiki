@@ -1,0 +1,214 @@
+{{Village
+|Name=Amateur Radio
+|Picture=Radiotowerhi.png
+|Description=ham radio at its finest.
+|Contact=Paul
+|Activities=Radio... durr
+|Location=51.967000, -0.793989
+}}
+
+Moved from [[radio]]
+
+'''We have a [https://lists.emfcamp.org/listinfo/hamradio mailing list] - please subscribe!
+'''
+
+==Things to during EMF==
+===Radio Village Workshops/Talks===
+We plan on running some small talks/workshops on a fairly informal basis, these will include: 
+* Introduction to software defined radio - Dominic
+* Something TBD - Paul
+* Amateur Radio: The Original Nerd Hobby - Ryan Sayre (2E0RYS / KG7NMC)
+* <span style="color: red;">YOUR_TALK_HERE</span>
+
+===Contests===
+During EMF the following contests will be running
+
+http://www.hornucopia.com/contestcal/contestdetails.php?ref=99
+
+http://www.hornucopia.com/contestcal/contestdetails.php?ref=98
+
+http://www.hornucopia.com/contestcal/contestdetails.php?ref=101
+
+===Special Event Station===
+Paul (M0OKE) has applied for an NoV for a special call sign for a special event station, '''[[GB2EMF]]'''.  
+
+This has been granted.
+
+Colin (G8TMV) has organised RSGB posters and info leaflets.
+
+===Talk In===
+
+Talk in will be happening on 2m on Friday and will possibly continue intermittently throughout the weekend.  Operator(s) required.  This will take place on 145.550 MHz.
+
+===Modes & Bands===
+
+Steve M0SPN intends to run voice on HF.  VHF/UHF dependent on availability of masts and beams.
+
+Iain MM6MVQ will have an SSTV receiving station operating during EMF on 70cm that will upload recieved images to the Internet. For details on this, see the [[Villages:57North#SSTV_Receiving_Station|57North village]] page.
+
+==Local Stuff==
+
+===Clubs===
+* Milton Keynes ARS (MKARS) are literally just up the road from the campsite - http://www.mkars.org.uk/ 
+
+===Repeaters===
+It would be very cool to have a dedicated on-site repeater just for EMF.  The practicality wouldn't be too difficult -- M0RND can provide a 2m/70cm colinear (which might be able to be hosted on the main EMF mast), and there's no shortage of radios which can do cross-band repeat, or something could be lashed up with two Baofeng UV-B5 radios and a diplexer.
+
+The awkward part would be getting an NoV for the repeater, and getting it in time for EMF.
+
+* Voice - GB3VA http://ukrepeater.net/my_repeater.php?id=997
+
+* Digital - http://www.ukrepeater.net/repeaters/maps/gb7bp.jpg 
+
+* Digital - http://www.ukrepeater.net/my_repeater.php?id=180
+
+==Tasks/Status==
+
+{| class="wikitable"
+! Task 
+! Owner(s) 
+! Notes
+|-
+| Village/Station || tgreer?/Everyone! || Organisation of tent, power, network
+|-
+| Radios || (tbc) || Supply of HF/VHF/UHF gear<sup>1</sup>
+|-
+| Mast(s) || (tbc) || Supply of masts, rotator?<sup>2</sup> * Tgreer has 12m push up mast on his landrover * Hopefully LHS's trailer mast will be ready for then. [https://wiki.london.hackspace.org.uk/view/Project:Mast_Trailer]
+|-
+| Operators || See below || People volunteering to rotate operation/manning of station
+|-
+| Special Event Call || Paul M0OKE || [[GB2EMF]] granted by Ofcom
+|- 
+| QSL Cards || Steve M0SPN || Assistance required <sup>3</sup>
+|- 
+| GB2RS News || Paul || Emailed, probably a bit late for ticket sales though
+|-
+| Southgate ARC || ? (no owner) || Already up there!
+|-
+| TX Factor || Steve M0SPN || Initial contact made (to be passed to jontyw if successful)
+|-
+| Promo Material || Steve M0SPN || Initial contact made with RSGB, Kenwood, Yaseu, Icom, Moonraker, ML&S<sup>4</sup?
+|}
+<sup>1</sup> Steve M0SPN has TS450S & PSU available
+
+<sup>2</sup> Cillian (possible V/UHF yagis), tgreer (possible landrover/mast) 
+
+<sup>3</sup> http://www.centreprint.co.uk/qsl_cards2.htm can deliver in 1-2 weeks,  £50 for 250 cards
+
+<sup>4</sup> Leaflets/posters received from Icom, RSGB.
+
+==Equipment==
+{| class="wikitable"
+! style="text-align:left;"| Item
+! Amount
+! Status
+|-
+|Army tent thing
+|1
+|17'6 http://www.rddusa.com/product/gp-small-tent-176-x-176/
+|-
+|Gazebo
+|1
+|3x3m with sides - Arrived from Ebay
+|-
+|Table
+|1
+|Rental booked
+|-
+|Chairs
+|6
+|Rental booked
+|-
+|Radio
+|1
+|TS450S (TCMSLP/M0SPN)
+|-
+|PSU
+|1
+|25A SMPSU (TCMSLP/M0SPN)
+|-
+|Antenna
+|1
+|V/UHF Colinear (TCMSLP/M0SPN)
+|-
+|Other radios etc...
+| 
+| 
+|-
+|}
+
+==People==
+A list of people who may or may not be going and may or may not be interested in doing things related to amateur radio.
+
+===Manual list===
+* David M0TNR `Cillian' (is going, can bring some radio goodies, but doesn't want to dedicate all weekend to it)
+* Adam M0RND
+* Colin G8TMV
+* Paul M0OKE
+* Jon M0JSN
+* Gavan 2E0UND (Underhand on IRC)
+* Steve M0SPN (TCMSLP on #emfcamp)
+* Kai DB1SQU (SQUelcher on IRC)
+* Kimball 2E1FWL (drrk on IRC)
+* Relocker PA1BYL
+* Paul M0TZO - bringing D-STAR equipment
+* Blake KC9CHL
+* Alan MW6ZEC
+* Kraptv 2E0RYS (KG7NMC)
+* Iain MM6MVQ
+* Paul 2E0PGW
+* Bill M1DHL (murb on IRC)
+* Mark (no valid callsign atm because Ofcom have double-issued it)
+* Paul 2E1AWG
+
+===Villagers===
+{{inhabitant}}
+
+==Amateur Radio chat on IRC==
+IRC Network - chat.freenode.net<br />
+Channel - #emfhams<br />
+Username - Callsign or other username<br />
+Web Based Link - http://webchat.freenode.net/?channels=emfhams
+
+===Chat Members===
+{| class="wikitable"
+! style="text-align:left;"| Callsign*
+! IRC Name
+! First Name
+|-
+| 5Q5R
+| mihtjel
+| Rune
+|-
+| MM3ZRZ
+| hibby
+| Dave
+|-
+| MM6MVQ
+| irl
+| Iain
+|-
+|MØTZO
+|MØTZO
+|Paul
+|}
+<nowiki />* If you have a Callsign
+
+==Amateur Radio Village Feedback==
+
+===What Went Well===
+* The tent was friendly and there were a lot of interested people dropping in and exchanging knowledge. [[User:Irl|Irl]] ([[User talk:Irl|talk]]) 19:26, 5 September 2014 (UTC)
+
+===What Didn't===
+* No one sent any SSTV to my recieving station. That probably could have been planned a lot better. [[User:Irl|Irl]] ([[User talk:Irl|talk]]) 19:26, 5 September 2014 (UTC)
+
+===Ideas for 2016===
+* Get the whole camp mapped out using APRS. i.e. where the villages are, etc.
+** Get all the Hams on site with portable APRS setup
+** We're looking at a cheap [http://foxdelta.com/products/foxtrak1.htm FOXTRAK :: APRS Tracker] setup
+* Throw some packets at the ISS / other amateur satellite things
+* Foundation/intermediate practical workshops
+* EME?
+* Computer Logging (maybe adding to CloudLog online logbook see [here http://logbook.m3php.com/2e0sql/])
+* Website/Blog
+

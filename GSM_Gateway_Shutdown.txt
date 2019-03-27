@@ -1,0 +1,81 @@
+It's possible to shut the two on-site gateways down either manually or using GSM in case of malfunction, emergency, or request from Ofcom. Shutdown operators should be familiar with this process so they can shut the gateways down quickly if required.  
+
+'''!!! Use SMS comands where possible as they appear to be more reliable !!!'''
+
+===Disable the Gateways===
+
+====Manually====
+
+Pick one of the following:
+
+* Switch off green switch on PSU
+* Unplug cable
+* Request EMF Orga shutdown power to the tent
+
+====SMS====
+
+# Send an SMS with the following message: '''1234#0*1#''' (where 1234 is the PIN-code)
+
+====Call====
+
+# Dial the supplied number.
+# When it answers, enter the supplied pin followed by hash. E.G '''1234#''' (This is not the actual pin).
+# If the pin is correct you will hear a beep (or possibly silence...). If its incorrect the call will end.
+# After the beep, enter '''0*1#'''
+# If the unit has successfully turned off, you will hear a beep (or possibly silence...). Hangup.
+# If you hear two beeps, re-enter the shutdown command or hangup and try again.
+
+===Enable the Gateways===
+
+Only the NoV holder should re-enable the gateways once authorised to do so.
+
+====Manually====
+
+Pick one of the following:
+
+* Switch on green switch on PSU
+* Plug in cable
+* Request EMF Orga switch on power to the tent
+
+====SMS====
+
+# Send an SMS with the following message: '''1234#1*1#''' (where 1234 is the PIN-code)
+
+====Call====
+
+# Dial the supplied number.
+# When it answers, enter the supplied pin followed by hash. E.G 1234# (This is not the actual pin).
+# If the pin is correct you will hear a beep (or possibly silence...). If its incorrect the call will end.
+# After the beep, enter '''1*1#'''
+# If the unit has successfully turned on, you will hear a beep (or possibly silence...). Hangup.
+# If you hear two beeps, re-enter the shutdown command or hangup and try again.
+
+===Get the current status of the relay===
+
+#  Send an SMS with the following message: '''ABCD#8#''' (where ABCD is your PIN-code) 
+# The reply will contain the following information:
+
+{| class="wikitable"
+! style="text-align: center; font-weight:bold; font-size:14px; background-color:#9b9b9b;" | Example
+! style="text-align: center; font-weight:bold; font-size:14px; background-color:#9b9b9b;" | Explanation
+|-
+| style="text-align: center; font-size:14px;" | *Ontech9009
+| style="font-size:14px;" | A star (*) means that the alarm function is turned on.
+|-
+| colspan="2" style="font-weight:bold; font-size:14px; background-color:#c0c0c0;" | Units:
+|-
+| style="text-align: center; font-size:14px;" | 1*
+| style="font-size:14px;" | Indicates the units communicating with the master unit. Unit
+number 1 is always the master unit. A star (*) after the number
+indicates that the relay is turned on.
+|-
+| colspan="2" style="font-weight:bold; font-size:14px; background-color:#c0c0c0;" | Other:
+|-
+| style="text-align: center; font-size:14px;" | Temp:24
+| style="font-size:14px;" | Gives the temperature at the master unit in degrees Celsius.
+|}
+
+===Manual===
+
+The full manual is available [http://cdn.marrold.co.uk/files/Manuals/Ontech_GSM_Mini_9009_Manual.pdf here]
+
